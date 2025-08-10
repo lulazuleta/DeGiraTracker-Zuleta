@@ -1,4 +1,5 @@
 CREATE DATABASE DeGiraTracker;
+
 USE DeGiraTracker;
 
 
