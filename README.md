@@ -5,8 +5,10 @@
 
 DeGiraTracker es un proyecto personal que busca diseñar las base de datos de una herramienta de ticketeria ficticia correspondiente al curso de SQL. 
 
+## Primer Entrega: Dentro de esta entrega se solicitó crear la estructura de una base de algo de mi interés. Se debe entregar un documento que contenga la idea y explicación del proyecto, el listado de tablas que tendrá mi base de datos (indicando descripción de las tablas, campos, primary key, foreing key, indices y descripción de cada campo), DER (Diagrama entidad-relacion) de la base de datos, y Script para la creación de la base de datos y tablas.
 
-# Índice Primer Entrega:
+
+## Índice Primer Entrega:
 
 
 - [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/Primer-Entrega/Definicion-DeGiraTracker-ZuletaLucia.pdf): Dentro de este archivo se encontrará la explicación detallada del proyecto, el listado de tablas y el DER
