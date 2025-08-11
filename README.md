@@ -20,4 +20,3 @@ Dentro de esta entrega se solicitó crear la estructura de una base de algo de m
 
 Nota: Para la creación y ejecución de este proyecto se utilizó chat gtp SOLAMENTE para hacer la validación del script con el fin de que no se me olvide ninguna de las relaciones entre tablas y así evitar inconsistencias, todo lo demás fue hecho a mano y a consciencia (Incluyendo la redacción del documento de proyecto) ya que considero que no sirve que una "máquina" haga el trabajo por mi, de otra forma no aprendería lo necesario. Espero que el proyecto cumpla con las expectativas. (Es mi primera vez diagramando una base de datos, espero haberlo hecho bien)
 
-PD: Martín si estás leyendo esto es porque sabés que me tenés que felicitar por lo lindo que quedó. Y gracias por ayudarme con esas ideas locas que se me ocurren. ❤️❤️
