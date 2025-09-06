@@ -12,7 +12,7 @@ Dentro de esta entrega se solicitó crear la estructura de una base de algo de m
 ## Índice Primer Entrega:
 
 
-  💙​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/DefinicionFuncional-DeGiraTracker-ZuletaLucia_V1.2.pdf): Dentro de este archivo se encontrará la explicación detallada del proyecto, el listado de tablas y el DER.  
+  💙​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/PrimerEntrega/DefinicionFuncional-DeGiraTracker-ZuletaLucia_V1.2.pdf): Dentro de este archivo se encontrará la explicación detallada del proyecto, el listado de tablas y el DER.  
   💙​ [Documentación en word](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/DefinicionFuncional-DeGiraTracker-ZuletaLucia_V1.2.docx): Este archivo es el mismo que el anterior solo que está en formato word, este tipo de archivos no se pueden previsualizar en github, por lo que es obligatorio descargarlos, es por esto que se subió el archivo en PDF.  
   💙​ [DER](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/DeGiraTracker_DER_ZuletaLucia_v1.2.png): Este link dirige a la imagen del diagrama entidad-relación del proyecto.  
   💙​ [Listado de tablas](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/Listado_Tablas_V1.2.xlsx): Este es un archivo de tipo excel que contiene el listado de las tablas, decripción de cada una, campos, primary key, foreing key, índices y descripción de los campos. (Tambien se encuentra este listado dentro del archivo de documentación).  
