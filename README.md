@@ -23,7 +23,7 @@ Dentro de esta entrega se solicitó crear la estructura de una base de algo de m
 Dentro de esta entrega se solicitó crear vistas, funciones, store procedures y triggers para la base de datos creada en la primer entrega. Adicionalmente se tiene que actualizar la documentación agregando los objetos mencionados anteriormente. Como último punto se solicita popular las tablas de la base de datos. Todos los scripts deberán poder ejecutarse sin generar conflictos.
 
 
-## Índice Primer Entrega:
+## Índice Segunda Entrega:
 
 💗​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/DeGiraTracker-ZuletaLucia_V1.3.pdf): Dentro de este archivo se encuentra la documentación del proyecto, dónde se explica la finalidad, y el detalle de todos los objetos que componen dicha tabla.  
 💗​ [Script para popular las tablas](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/insercion_de_datos.sql): Dentro de este archivo se encuentran los scripts para popular todas las tablas de la base de datos.  
