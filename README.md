@@ -1,15 +1,15 @@
-# Proyecto Final Curso SQL
-## De Gira Tracker
+# 💼​ Proyecto Final Curso SQL 💼​
+## 📊​ De Gira Tracker 📊​
 
 ### Autora: Lucía Laura Zuleta
 
 DeGiraTracker es un proyecto personal que busca diseñar las base de datos de una herramienta de ticketeria ficticia correspondiente al curso de SQL. 
 
-## Consigna Primer Entrega: 
+## 📗​ Consigna Primer Entrega: 
 Dentro de esta entrega se solicitó crear la estructura de una base de algo de mi interés. Se debe entregar un documento que contenga la idea y explicación del proyecto, el listado de tablas que tendrá mi base de datos (indicando descripción de las tablas, campos, primary key, foreing key, indices y descripción de cada campo), DER (Diagrama entidad-relacion) de la base de datos, y Script para la creación de la base de datos y tablas.
 
 
-## Índice Primer Entrega:
+## 🌺​ Índice Primer Entrega:
 
 
 💙​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/PrimerEntrega/DefinicionFuncional-DeGiraTracker-ZuletaLucia_V1.2.pdf): Dentro de este archivo se encontrará la explicación detallada del proyecto, el listado de tablas y el DER.  
@@ -19,11 +19,11 @@ Dentro de esta entrega se solicitó crear la estructura de una base de algo de m
 💙​ [Script](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/DeGiraTracker_creacion_de_tablas_full_V1.2.sql): Este archivo con extensión .sql es el script de creación de la base la base de datos, las tablas que forman parte del proyecto y los índices tal como solicita la consigna. En caso de que requieran probarlo, este script puede ser ejecutado sin realizar modificaciones, ya que el orden de la creación de las tablas está hecho de forma tal que no se generen conflictos entre las relaciones. 
 
 
-## Consigna Segunda Entrega: 
+## 📗​ Consigna Segunda Entrega: 
 Dentro de esta entrega se solicitó crear vistas, funciones, store procedures y triggers para la base de datos creada en la primer entrega. Adicionalmente se tiene que actualizar la documentación agregando los objetos mencionados anteriormente. Como último punto se solicita popular las tablas de la base de datos. Todos los scripts deberán poder ejecutarse sin generar conflictos.
 
 
-## Índice Segunda Entrega:
+## 🌺​ Índice Segunda Entrega:
 
 💗​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/DeGiraTracker-ZuletaLucia_V1.3.pdf): Dentro de este archivo se encuentra la documentación del proyecto, dónde se explica la finalidad, y el detalle de todos los objetos que componen dicha tabla.  
 💗​ [Script para popular las tablas](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/insercion_de_datos.sql): Dentro de este archivo se encuentran los scripts para popular todas las tablas de la base de datos.  
