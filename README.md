@@ -25,9 +25,9 @@ Dentro de esta entrega se solicitó crear vistas, funciones, store procedures y 
 
 ## Índice Primer Entrega:
 
-💗​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/DeGiraTracker-ZuletaLucia_V1.3.pdf)
-💗​ [Script para popular las tablas](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/insercion_de_datos.sql)
-💗​ [Script para la creación de objetos](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/creacionDeObjetos.sql)
-
+💗​ [Documentación en PDF](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/DeGiraTracker-ZuletaLucia_V1.3.pdf): Dentro de este archivo se encuentra la documentación del proyecto, dónde se explica la finalidad, y el detalle de todos los objetos que componen dicha tabla.  
+💗​ [Script para popular las tablas](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/insercion_de_datos.sql): Dentro de este archivo se encuentran los scripts para popular todas las tablas de la base de datos.  
+💗​ [Script para la creación de objetos](https://github.com/lulazuleta/DeGiraTracker-Zuleta/blob/main/SegundaEntrega/creacionDeObjetos.sql): Dentro de este archivo se encuentra la creación de todos los objetos solicitados en la consigna de la segunda entrega. Los mismos pueden ser ejecutados sin que se generen conflictos.  
+  
 📝​ Nota: Para la creación y ejecución de este proyecto se utilizó chat gtp SOLAMENTE para hacer la validación del script con el fin de que no se me olvide ninguna de las relaciones entre tablas y así evitar inconsistencias, todo lo demás fue hecho a mano y a consciencia (Incluyendo la redacción del documento de proyecto) ya que considero que no sirve que una "máquina" haga el trabajo por mi, de otra forma no aprendería lo necesario. Espero que el proyecto cumpla con las expectativas. (Es mi primera vez diagramando una base de datos, espero haberlo hecho bien)
 
